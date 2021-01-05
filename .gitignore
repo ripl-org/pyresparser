@@ -1,3 +1,9 @@
+# resume training files
+training_data/*.pdf
+training_data/*.docx
+training_data/*.doc
+training_data/*.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

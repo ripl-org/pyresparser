@@ -1,0 +1,1 @@
+Store resumes to use as training data here.
